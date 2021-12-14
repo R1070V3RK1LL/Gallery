@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R1070V3RK1LL/GaleriTSE.git"
+    "url": "git+https://github.com/R1070V3RK1LL/Gallery.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/R1070V3RK1LL/GaleriTSE/issues"
+    "url": "https://github.com/R1070V3RK1LL/Gallery/issues"
   },
-  "homepage": "https://github.com/R1070V3RK1LL/GaleriTSE#readme"
+  "homepage": "https://github.com/R1070V3RK1LL/Gallery#readme"
 }
