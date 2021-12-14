@@ -1,0 +1,7 @@
+{
+  "name": "GalleryTSE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
